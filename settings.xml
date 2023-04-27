@@ -84,8 +84,10 @@ under the License.
       </activation>
       <properties>
         <sonar.host.url>http://34.204.12.226:9000</sonar.host.url>
-      </properties>
+      </properties> make    
     </profile>
     <!--End SonarQube/Sonar Profile-->
   </profiles>
 </settings>
+
+//new comment
